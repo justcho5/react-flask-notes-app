@@ -4,7 +4,7 @@ Notes App
 
 ## Description
 
-React app for notes. This was a project to practice using React for frontend and Flask for backend.
+React app for notes. This was a project to practice using React/Typescript for frontend and Flask for backend.
 
 ## Getting Started
 
