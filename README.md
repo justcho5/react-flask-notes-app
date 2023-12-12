@@ -29,7 +29,17 @@ code blocks for commands
 
 ### How to Run
 
-tbd
+# Run UI in development mode:
+
+- navigate to react-flask-notes-app/notes-app
+- run `npm start`
+
+# Run flask app in dev:
+
+- navigate to react-flask-notes-app/notes-server
+- create environment `pip install -r requirements.txt`
+- activate environment
+- run `python server.py`
 
 <!-- ## Help
 
